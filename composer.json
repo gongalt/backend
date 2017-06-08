@@ -1,0 +1,12 @@
+{
+    "name": "yanyan/crud-php-simple-master",
+    "authors": [
+        {
+            "name": "Adrian Jenson",
+            "email": "jensonadrian@gmail.com"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "^3.0"
+    }
+}
